@@ -12,6 +12,7 @@ const GridItem = styled(Link)`
   }
   > div img {
     transition: all 0.3s ease 0s !important;
+    object-position: 50% 0 !important;
   }
   > span {
     z-index: 10;

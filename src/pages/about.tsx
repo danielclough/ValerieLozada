@@ -13,9 +13,9 @@ const About = () => {
 
   return (
     <Layout>
-      <SEO title="About | Jodie" desc="Hi. I'm SilkMint! " />
+      <SEO title="About | Jodie" desc="Hi. I'm Valerie Lozada! " />
       <AnimatedBox style={pageAnimation} py={[6, 6, 6, 8]} px={[6, 6, 8, 6, 8, 13]}>
-        <h1>Hi. I'm SilkMint!</h1>
+        <h1>Hi. I'm Valerie Lozada!</h1>
       </AnimatedBox>
     </Layout>
   )

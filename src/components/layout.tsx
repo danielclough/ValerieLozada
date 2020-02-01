@@ -229,7 +229,7 @@ const Layout = ({ children, color }: LayoutProps) => {
               justifyContent="space-between"
             >
               <Box width={['3rem', '4rem', '5rem', '6rem']}>
-                <Link to="/" aria-label="SilkMint, Back to Home">
+                <Link to="/" aria-label="Valerie Lozada, Back to Home">
                   <Logo />
                 </Link>
               </Box>
@@ -252,7 +252,7 @@ const Layout = ({ children, color }: LayoutProps) => {
           <Main>{children}</Main>
           <Footer color={color}>
             <Box p={[6, 6, 8]} fontSize={0}>
-              Copyright <a href="https://www.SilkMint.de/en">SilkMint</a>.<br />
+              Copyright <a href="https://www.Valerie Lozada.de/en">Valerie Lozada</a>.<br />
               <a href="DanielC.us">Design by: DanielC.us</a>.
             </Box>
           </Footer>

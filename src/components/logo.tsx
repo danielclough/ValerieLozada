@@ -1,9 +1,9 @@
 import React from 'react'
+import logo from "static/logos/logo.png"
 
 const Logo = () => (
-  <image>
-    <title>Valerie Lozada</title>
-  </image>
+  <img src={logo} alt="Logo" />
 )
+
 
 export default Logo

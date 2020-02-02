@@ -230,7 +230,7 @@ const Layout = ({ children, color }: LayoutProps) => {
             >
               <Box width={['3rem', '4rem', '5rem', '6rem']}>
                 <Link to="/" aria-label="Valerie Lozada, Back to Home">
-                  <Logo />
+                  <img src="/logos/logo.png" />
                 </Link>
               </Box>
               <Nav

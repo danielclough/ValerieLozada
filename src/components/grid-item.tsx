@@ -18,13 +18,12 @@ const GridItem = styled(Link)`
     z-index: 10;
     color: white;
     position: absolute;
-    left: 0;
-    right: 0;
-    text-align: right;
-    font-weight: 700;
+    bottom: 0;
+    text-align: left;
+    font-weight: 900;
     font-size: ${props => props.theme.fontSizes[4]};
     padding: ${props => props.theme.space[6]};
-    text-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    text-shadow: 0 0px 3px rgba(0, 0, 0, 0.8), 0 1px 3px rgba(0, 0, 0, 0.9), 0 0px 1px rgba(0, 0, 0, 1);
 
     @media (max-width: ${props => props.theme.breakpoints[3]}) {
       font-size: ${props => props.theme.fontSizes[3]};

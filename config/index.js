@@ -7,7 +7,7 @@ module.exports = {
   siteHeadline: 'Smooth - Cool - Refreshing', // Headline for schema.org JSONLD
   siteUrl: 'https://ValerieLozada.com', // Domain of your site. No trailing slash!
   siteLanguage: 'en', // Language Tag on <html> element
-  siteLogo: '/logos/logo.jpg', // Used for SEO and manifest
+  siteLogo: '/logos/logo.png', // Used for SEO and manifest
   siteDescription: 'Modeling portfolio for Valerie Lozada',
   author: 'DanielC.us', // Author for schema.org JSONLD
 
@@ -15,7 +15,7 @@ module.exports = {
   userTwitter: '@Valerie Lozada', // Twitter Username
   ogSiteName: 'Valerie Lozada', // Facebook Site Name
   ogLanguage: 'en_US', // og:language
-  googleAnalyticsID: 'UA-XXXXXX-X',
+  googleAnalyticsID: 'UA-136138335-9',
 
   // Manifest and Progress color
   themeColor: '#db7436',

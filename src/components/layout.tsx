@@ -252,8 +252,7 @@ const Layout = ({ children, color }: LayoutProps) => {
           <Main>{children}</Main>
           <Footer color={color}>
             <Box p={[6, 6, 8]} fontSize={0}>
-              Copyright <a href="https://www.Valerie Lozada.de/en">Valerie Lozada</a>.<br />
-              <a href="DanielC.us">Design by: DanielC.us</a>.
+              Copyright <a href="https://danielc.us">DanielC.us</a>
             </Box>
           </Footer>
         </Wrapper>
